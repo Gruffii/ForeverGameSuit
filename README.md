@@ -6,6 +6,12 @@ It adds four short minigames built around campfire downtime while keeping the pr
 
 > **Current version:** 3.5.0
 
+<p align="center">
+  <a href="https://github.com/Gruffii/ForeverGameSuit/releases/download/wow/ForeverGameSuit_3.5.0.zip"><strong>📦 Download Forever Game Suit v3.5.0</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Gruffii/ForeverGameSuit/releases/tag/wow">Release notes</a>
+</p>
+
 ## Interface preview
 
 <p align="center">
