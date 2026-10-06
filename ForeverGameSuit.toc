@@ -1,0 +1,15 @@
+## Interface: 16001
+## Title: Forever Game Suit
+## Notes: Campfire arcade minigames for World of Warcraft: Forever.
+## Author: gruffi
+## Version: 3.5.0
+## IconTexture: Interface\Icons\INV_Camelot_Camping_WelcomingCampfire
+## Category: Miscellaneous
+## AddonCompartmentFunc: FGS_OnCompartmentClick
+## SavedVariables: FGS_GuildHighscores, FGS_ServerHighscores, FGS_MinimapAngle, FGS_AutoOpenMenu, FGS_GameDuration, FGS_DebugMode, FGS_SoundEnabled, FGS_ScoreBalanceVersion, FGS_DataVersion
+
+ForeverGameSuit.lua
+CampfireArrows.lua
+CampfireJump.lua
+campfiretris.lua
+CampfireSnake.lua
