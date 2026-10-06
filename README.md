@@ -6,6 +6,16 @@ It adds four short minigames built around campfire downtime while keeping the pr
 
 > **Current version:** 3.5.0
 
+## Interface preview
+
+<p align="center">
+  <img src="MainMenü.png" alt="Forever Game Suit game selection" width="31%">
+  <img src="hightscore.png" alt="Forever Game Suit highscores" width="31%">
+  <img src="Options.png" alt="Forever Game Suit options" width="31%">
+</p>
+
+The hub, highscores and options stay inside the same compact Blizzard-style window so the addon feels like one coherent part of the WoW Forever UI.
+
 ## Games
 
 ### Polymorph Chicken Run
@@ -122,13 +132,23 @@ Interface/AddOns/ForeverGameSuit/
 
 ## Gameplay preview
 
-A short gameplay GIF will be added here.
+### Gnomeregan Block-Matrix
 
-<!--
 <p align="center">
-  <img src="media/gameplay.gif" alt="Forever Game Suit gameplay preview">
+  <img src="GnomereganBlock-Matrix.gif" alt="Gnomeregan Block-Matrix gameplay" width="520">
 </p>
--->
+
+### Goblin Circuit Breaker
+
+<p align="center">
+  <img src="GoblinCircuitBreaker.gif" alt="Goblin Circuit Breaker gameplay" width="640">
+</p>
+
+### Polymorph Chicken Run
+
+<p align="center">
+  <img src="PolymorphChickenRun.gif" alt="Polymorph Chicken Run gameplay" width="640">
+</p>
 
 ## Project structure
 
